@@ -5,11 +5,8 @@ Created on Thu Jun 15 04:49:32 2023
 @author: Ganu
 """
 import pandas as pd
-import os
 import shutil
 import Bio
-import os
-import sys
 import Bio.PDB
 import Bio.SeqRecord
 
