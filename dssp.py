@@ -37,6 +37,3 @@ def dssp(pdb_file, location):
   df= df.iloc[[1,2],range(0,len(seq),1)]
   df.iloc[0]=df.iloc[0].str.lower()
   return df
-
-location='C:/Users/Ganu/.spyder-py3/1dc9.pdb'
-dssp('1dc9.pdb',location)
