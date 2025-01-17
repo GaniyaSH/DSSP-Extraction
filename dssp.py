@@ -5,7 +5,6 @@ Created on Thu Jun 15 04:49:32 2023
 @author: Ganu
 """
 import pandas as pd
-import shutil
 import Bio
 import Bio.PDB
 import Bio.SeqRecord
